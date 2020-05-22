@@ -1,2 +1,4 @@
 # Imperial-Trans-Kairo
 Imperial-Trans-Kairo; le train magique de la Cie Titanos
+
+![Image description](img/itk_tableau.jpg)
